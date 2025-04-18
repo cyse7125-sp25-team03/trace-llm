@@ -18,7 +18,7 @@ DB_CONFIG = {
     'port': os.environ.get('DB_PORT', '5432'),
     'database': os.environ.get('DB_NAME', 'trace'),
     'user': os.environ.get('DB_USER', 'postgres'),
-    'password': os.environ.get('DB_PASSWORD', 'meowmeow'),
+    'password': os.environ.get('DB_PASSWORD', ''),
 }
 
 # Vector embedding configuration
