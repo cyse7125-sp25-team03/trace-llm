@@ -15,3 +15,4 @@ google-generativeai>=0.3.0,<0.6.0
 # Use a simpler embedding approach for compatibility
 # Instead of sentence-transformers which can be problematic
 scikit-learn>=1.0.0,<2.0.0
+sentence-transformers>=2.2.2,<3.0.0
