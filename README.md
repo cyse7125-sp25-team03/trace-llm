@@ -1,8 +1,8 @@
 # TRACE LLM - Gemini RAG Service
 
 ![Google](https://img.shields.io/badge/Google-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2.svg?style=for-the-badge&logo=gemini&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00.svg?style=for-the-badge&logo=ai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-0078D4.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
